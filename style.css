@@ -1,0 +1,17 @@
+body{
+background-color: cornflowerblue;
+color:darkblue;
+}
+.heading{
+width:80%;
+font-size: 25px;
+
+}
+.nameofobjects,#resultobjectname,#resultobjectaccuracy {
+color:rgb(67, 56, 220);
+}
+#camera{
+border:2px solid darkblue;
+width:350px;
+height:300px;
+}
